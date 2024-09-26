@@ -7,7 +7,7 @@ This project includes two apps:
 
 ## How to run this project
 ```python
-git clone https://github.com/shiyunbo/django-channels-chatbot/
+git clone https://github.com/lukpoex/django-channels-chatbot/
 cd myproject
 pip install requirements.txts
 
